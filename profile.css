@@ -1,0 +1,60 @@
+body{
+    margin: 0%;
+}
+
+#name{
+    text-align: center;
+    
+}
+
+.about{
+    margin: 0 10% 0 10%;
+    text-indent: 100px;
+    text-align: justify;
+}
+/*  skills section */
+.skills{
+    margin: 1%;
+    width: 40px;
+    height: 45px;
+    
+}
+#skill{
+    text-align: center;
+}
+.map{
+    text-align: center;
+}
+/* Hobbies section */
+.hobby{
+    text-align: center;
+}
+.hobimg{
+    width: 100px;
+    height: 75px;
+    margin: 1%;
+}
+
+/* contact details */
+
+.contact{
+    text-align: center;
+}
+
+
+.conm{
+    margin:1%;
+    font-size: xx-large;
+}
+footer{
+    text-align: center;
+}
+button{
+    
+    border-radius: 5%;
+    background-color: aqua;
+}
+button:hover{
+    background-color: rgb(38, 194, 194);
+    color: white;
+}
